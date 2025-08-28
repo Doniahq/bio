@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Donia ... a computer since student(last year) , from Libya</h2>
+<h2 align="left">Hi 👋! i'm Donia ... a computer since student(last year) , from Libya</h2>
 
 ###
 
